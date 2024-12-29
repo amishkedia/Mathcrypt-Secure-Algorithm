@@ -1,0 +1,65 @@
+[
+    {
+        "domain": ".netflix.com",
+        "expirationDate": 1766935740.220339,
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "SecureNetflixId",
+        "path": "/",
+        "sameSite": "strict",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "v%3D3%26mac%3DAQEAEQABABQNAcmUGXi8zsPAsLZsCOczlbB3lSBn3v0.%26dt%3D1735399739748"
+    },
+    {
+        "domain": ".netflix.com",
+        "expirationDate": 1766935740.22041,
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "NetflixId",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "ct%3DBgjHlOvcAxLlA5jwJYLVsLj_9QknIqGOVRUNyePY_SSCEoMPBnFHV3KQqMJ7n7lYAJ7u8I4hzSLc9VqlvFB24e5h2F_Zv89p2CI6z67AcW_n1W_NJOv8p0TWCg6Z2pkfv0wNZudYsae7fRcKM3SdI05xRJzbTXQnukmibt8Ggj8h6hzLlm4_Ch1dh_z1rQGna5m50wwHr87uuktiwxsAt6_fGKZBlExKClfjQsiMUjLOBgUqhDeDYTHypeer95t2gFFUwgJAjhWprPq6f1_cT3WufAfEux4T_468rGb1VknsjjmOTNR_XdHpSR37iN5ABYydgf8S0ZkG7EtkAOtLNO8HbNnrvRUJXzHqqc55HJzdLpumWqsOEUizpQZPHqLX51PZ_M7uvTHjPBwvk-Z5Z_kyyEwqdnRy0rV2OYpa83YO6Hh4zb8Y0w-u6B2q_QuSDfnMmiCuCWSiKB2sI8amn7V3ldm7v0hTgMyhQfuA7-FENTxKFjM_73Ydwq2iRMFUinPCmDXY0ziMnpxv7IFukRYIrFOBMAek4eU2vlJlIJ3r8_Y3_qy19wntwhq-VivMloSRukEYN0g5BTiMs4BZaMS_4YmYNQd35HMp7jxq230x3R3GfnVHP16eaODFMNJ7zDRD03Bt5IRDYNDpgU32GAYiDgoMdKql1VVRSZ882f7m%26ch%3DAQEAEAABABS-hXF2G2mcgD9g1nWGjuqctC4F0RIo0OA.%26v%3D3"
+    },
+    {
+        "domain": ".netflix.com",
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "memclid",
+        "path": "/",
+        "sameSite": null,
+        "secure": true,
+        "session": true,
+        "storeId": null,
+        "value": "c99d2bb3-2aa4-4e82-a76c-77e2a7af1662"
+    },
+    {
+        "domain": ".netflix.com",
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "OptanonAlertBoxClosed",
+        "path": "/",
+        "sameSite": null,
+        "secure": true,
+        "session": true,
+        "storeId": null,
+        "value": "2022-05-28T16:19:23.528Z"
+    }
+]Cryptography is a method of protecting information and communications using codes, so that only those for whom the information is intended can read and process it.
+
+In computer science, cryptography refers to secure information and communication techniques derived from mathematical concepts and a set of rule-based calculations called algorithms, to transform messages in ways that are hard to decipher. These deterministic algorithms are used for cryptographic key generation, digital signing, verification to protect data privacy, web browsing on the internet and confidential communications such as credit card transactions and email.
+
+Cryptography techniques
+Cryptography is closely related to the disciplines of cryptology and cryptanalysis. It includes techniques such as microdots, merging words with images and other ways to hide information in storage or transit. In today's computer-centric world, cryptography is most often associated with scrambling plaintext (ordinary text, sometimes referred to as cleartext) into ciphertext (a process called encryption), then back again (known as decryption). Individuals who practice this field are known as cryptographers.
+
+Modern cryptography concerns itself with the following four objectives:
+
+Confidentiality. The information cannot be understood by anyone for whom it was unintended.
+Integrity. The information cannot be altered in storage or transit between sender and intended receiver without the alteration being detected.
+Non-repudiation. The creator/sender of the information cannot deny at a later stage their intentions in the creation or transmission of the information.
+Authentication. The sender and receiver can confirm each other's identity and the origin/destination of the information.
+Procedures and protocols that meet some or all the above criteria are known as cryptosystems. Cryptosystems are often thought to refer only to mathematical procedures and computer programs; however, they also include the regulation of human behavior, such as choosing hard-to-guess passwords, logging off unused systems and not discussing sensitive procedures with outsiders.
